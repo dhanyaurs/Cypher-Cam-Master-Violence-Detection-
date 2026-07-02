@@ -1,0 +1,6 @@
+python softwares/  
+dataset/  
+train/  
+test/  
+*.h5  
+*.mp4 

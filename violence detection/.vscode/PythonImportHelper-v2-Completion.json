@@ -1,0 +1,874 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_file",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "mysql.connector",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mysql.connector",
+        "description": "mysql.connector",
+        "detail": "mysql.connector",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "secure_filename",
+        "importPath": "werkzeug.utils",
+        "description": "werkzeug.utils",
+        "isExtraImport": true,
+        "detail": "werkzeug.utils",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "email.message",
+        "description": "email.message",
+        "isExtraImport": true,
+        "detail": "email.message",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "pygame",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame",
+        "description": "pygame",
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEImage",
+        "importPath": "email.mime.image",
+        "description": "email.mime.image",
+        "isExtraImport": true,
+        "detail": "email.mime.image",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "pyttsx3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyttsx3",
+        "description": "pyttsx3",
+        "detail": "pyttsx3",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "ModelCheckpoint",
+        "importPath": "tensorflow.keras.callbacks",
+        "description": "tensorflow.keras.callbacks",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "VGG16",
+        "importPath": "tensorflow.keras.applications",
+        "description": "tensorflow.keras.applications",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Adam",
+        "importPath": "tensorflow.keras.optimizers",
+        "description": "tensorflow.keras.optimizers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "dbconnection",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def dbconnection():\n    con = mq.connect(host='localhost', database='mydb', user='root', password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('index.html')\n@app.route('/register', methods=['GET', 'POST'])\ndef register():\n    if request.method == 'POST':\n        name = request.form['name']",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def home():\n    return render_template('index.html')\n@app.route('/register', methods=['GET', 'POST'])\ndef register():\n    if request.method == 'POST':\n        name = request.form['name']\n        phone = request.form['phone']\n        email = request.form['email']\n        address = request.form['address']\n        password = request.form['password']",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def register():\n    if request.method == 'POST':\n        name = request.form['name']\n        phone = request.form['phone']\n        email = request.form['email']\n        address = request.form['address']\n        password = request.form['password']\n        hashed_password = generate_password_hash(password)\n        try:\n            con = dbconnection()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def dashboard():\n    if 'user_id' not in session:\n        flash(\"Please login first\")\n        return redirect(url_for('login'))\n    return render_template('dashboard.html')\n@app.route('/login', methods=['GET', 'POST'])\ndef login():\n    if request.method == 'POST':\n        email = request.form['email']\n        password = request.form['password']",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def login():\n    if request.method == 'POST':\n        email = request.form['email']\n        password = request.form['password']\n        con = dbconnection()\n        cursor = con.cursor()\n        cursor.execute(\"SELECT * FROM user WHERE email=%s AND password=%s\", (email, password))\n        user = cursor.fetchone()\n        if user:\n            session['user_id'] = user[0]",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "send_email_alert",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def send_email_alert(video_path):\n    senderid = \"sender@gmail.com\"\n    password = \"ur password\"\n    msg = EmailMessage()\n    msg['Subject'] = 'Violence Detected!'\n    msg['From'] = senderid\n    msg['To'] = 'receiver@gmail.com'\n    msg.set_content('Violent activity has been detected. See attached video.')\n    with open(video_path, 'rb') as f:\n        video_data = f.read()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "play_buzzer",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def play_buzzer():\n    pygame.mixer.music.load(BUZZER_SOUND)\n    pygame.mixer.music.play()\nimport subprocess\n@app.route('/predict_video', methods=['POST'])\ndef predict_video():\n    video = request.files['video']\n    if not video:\n        return redirect(url_for('dashboard'))\n    filename = secure_filename(video.filename)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "predict_video",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def predict_video():\n    video = request.files['video']\n    if not video:\n        return redirect(url_for('dashboard'))\n    filename = secure_filename(video.filename)\n    original_path = os.path.join(UPLOAD_FOLDER, filename)\n    video.save(original_path)\n    # Convert uploaded video to MP4 for browser playback\n    original_mp4_filename = f\"converted_{uuid.uuid4().hex}.mp4\"\n    original_mp4_path = os.path.join(UPLOAD_FOLDER, original_mp4_filename)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def logout():\n    session.clear()\n    flash(\"Logged out successfully\")\n    return redirect(url_for('login'))\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\napp.secret_key = 'your_secret_key'  # Set a secret key for session management\nUPLOAD_FOLDER = 'static/uploads'\nif not os.path.exists(UPLOAD_FOLDER):\n    os.makedirs(UPLOAD_FOLDER)\nmodel = load_model('violence_detection_model_best.h5')\nlabels = ['Violence', 'Non-Violence']\npygame.mixer.init()\n# Load buzzer sound\nBUZZER_SOUND = 'static/alarm.wav'  # Add this file",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.secret_key = 'your_secret_key'  # Set a secret key for session management\nUPLOAD_FOLDER = 'static/uploads'\nif not os.path.exists(UPLOAD_FOLDER):\n    os.makedirs(UPLOAD_FOLDER)\nmodel = load_model('violence_detection_model_best.h5')\nlabels = ['Violence', 'Non-Violence']\npygame.mixer.init()\n# Load buzzer sound\nBUZZER_SOUND = 'static/alarm.wav'  # Add this file\ndef dbconnection():",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "UPLOAD_FOLDER",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "UPLOAD_FOLDER = 'static/uploads'\nif not os.path.exists(UPLOAD_FOLDER):\n    os.makedirs(UPLOAD_FOLDER)\nmodel = load_model('violence_detection_model_best.h5')\nlabels = ['Violence', 'Non-Violence']\npygame.mixer.init()\n# Load buzzer sound\nBUZZER_SOUND = 'static/alarm.wav'  # Add this file\ndef dbconnection():\n    con = mq.connect(host='localhost', database='mydb', user='root', password='root')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "model = load_model('violence_detection_model_best.h5')\nlabels = ['Violence', 'Non-Violence']\npygame.mixer.init()\n# Load buzzer sound\nBUZZER_SOUND = 'static/alarm.wav'  # Add this file\ndef dbconnection():\n    con = mq.connect(host='localhost', database='mydb', user='root', password='root')\n    return con\n@app.route('/')\ndef home():",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "labels = ['Violence', 'Non-Violence']\npygame.mixer.init()\n# Load buzzer sound\nBUZZER_SOUND = 'static/alarm.wav'  # Add this file\ndef dbconnection():\n    con = mq.connect(host='localhost', database='mydb', user='root', password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('index.html')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "BUZZER_SOUND",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "BUZZER_SOUND = 'static/alarm.wav'  # Add this file\ndef dbconnection():\n    con = mq.connect(host='localhost', database='mydb', user='root', password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('index.html')\n@app.route('/register', methods=['GET', 'POST'])\ndef register():\n    if request.method == 'POST':",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "predict_frame_class",
+        "kind": 2,
+        "importPath": "predict",
+        "description": "predict",
+        "peekOfCode": "def predict_frame_class(frame, model):\n    frame_resized = cv2.resize(frame, (224, 224))\n    frame_resized = np.array(frame_resized, dtype=np.float32) / 255.0\n    frame_resized = np.expand_dims(frame_resized, axis=0)  # Add batch dimension\n    prediction = model.predict(frame_resized)\n    # Predict the class (0 = Violence, 1 = Non-Violence)\n    if np.argmax(prediction) == 0:\n        return \"Violence\"\n    else:\n        return \"Non-Violence\"",
+        "detail": "predict",
+        "documentation": {}
+    },
+    {
+        "label": "display_video_with_classification",
+        "kind": 2,
+        "importPath": "predict",
+        "description": "predict",
+        "peekOfCode": "def display_video_with_classification(video_path, model):\n    cap = cv2.VideoCapture(video_path)\n    while cap.isOpened():\n        ret, frame = cap.read()\n        if not ret:\n            break\n        # Predict the class for the current frame\n        frame_class = predict_frame_class(frame, model)\n        # Add text to the frame indicating the classification\n        cv2.putText(frame, f\"Class: {frame_class}\", (20, 40), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)",
+        "detail": "predict",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "predict",
+        "description": "predict",
+        "peekOfCode": "model = load_model('violence_detection_model_best.h5')\n# Function to predict the class of each frame\ndef predict_frame_class(frame, model):\n    frame_resized = cv2.resize(frame, (224, 224))\n    frame_resized = np.array(frame_resized, dtype=np.float32) / 255.0\n    frame_resized = np.expand_dims(frame_resized, axis=0)  # Add batch dimension\n    prediction = model.predict(frame_resized)\n    # Predict the class (0 = Violence, 1 = Non-Violence)\n    if np.argmax(prediction) == 0:\n        return \"Violence\"",
+        "detail": "predict",
+        "documentation": {}
+    },
+    {
+        "label": "video_path",
+        "kind": 5,
+        "importPath": "predict",
+        "description": "predict",
+        "peekOfCode": "video_path = 'dataset/train/non violence/2gkuUVq1_0.avi'  # Replace with the actual video path\ndisplay_video_with_classification(video_path, model)",
+        "detail": "predict",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "def send_email(image_path):\n    print(\"email sent\")\n    '''try:\n        msg = MIMEMultipart()\n        msg['From'] = EMAIL_ADDRESS\n        msg['To'] = RECIPIENT_EMAIL\n        msg['Subject'] = \"Violence Detected\"\n        with open(image_path, 'rb') as img_file:\n            img_data = MIMEImage(img_file.read(), name=os.path.basename(image_path))\n        msg.attach(img_data)",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "save_frame",
+        "kind": 2,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "def save_frame(frame):\n    #timestamp = time.strftime(\"%Y%m%d-%H%M%S\")\n    filename = f\"violence_detected.jpg\"\n    cv2.imwrite(filename, frame)\n    print(f\"Frame saved: {filename}\")\n    return filename\n# Function to trigger the buzzer\ndef trigger_buzzer():\n    print(\"Buzzer triggered!\")\n    engine.say(\"violence detected\")",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "trigger_buzzer",
+        "kind": 2,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "def trigger_buzzer():\n    print(\"Buzzer triggered!\")\n    engine.say(\"violence detected\")\n    engine.runAndWait()\n# Function to predict the class of each frame\ndef predict_frame_class(frame, model):\n    frame_resized = cv2.resize(frame, (224, 224))\n    frame_resized = np.array(frame_resized, dtype=np.float32) / 255.0\n    frame_resized = np.expand_dims(frame_resized, axis=0)  # Add batch dimension\n    prediction = model.predict(frame_resized)",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "predict_frame_class",
+        "kind": 2,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "def predict_frame_class(frame, model):\n    frame_resized = cv2.resize(frame, (224, 224))\n    frame_resized = np.array(frame_resized, dtype=np.float32) / 255.0\n    frame_resized = np.expand_dims(frame_resized, axis=0)  # Add batch dimension\n    prediction = model.predict(frame_resized)\n    # Predict the class (0 = Violence, 1 = Non-Violence)\n    if np.argmax(prediction) == 0:\n        return \"Violence\"\n    else:\n        return \"Non-Violence\"",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "display_video_with_classification",
+        "kind": 2,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "def display_video_with_classification(video_path, model):\n    global violence_counter, violence_detected\n    cap = cv2.VideoCapture(video_path)\n    while cap.isOpened():\n        ret, frame = cap.read()\n        if not ret:\n            break\n        # Predict the class for the current frame\n        frame_class = predict_frame_class(frame, model)\n        if frame_class == \"Violence\":",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "browse_video",
+        "kind": 2,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "def browse_video():\n    global video_path\n    video_path = filedialog.askopenfilename(filetypes=[(\"Video Files\", \"*.avi *.mp4 *.mov\")])\n    if video_path:\n        messagebox.showinfo(\"Selected File\", f\"Selected Video: {video_path}\")\n# Function to start detection\ndef start_detection():\n    if not video_path:\n        messagebox.showerror(\"Error\", \"Please select a video file first.\")\n    else:",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "start_detection",
+        "kind": 2,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "def start_detection():\n    if not video_path:\n        messagebox.showerror(\"Error\", \"Please select a video file first.\")\n    else:\n        display_video_with_classification(video_path, model)\n# Create the main Tkinter window\nroot = tk.Tk()\nroot.title(\"Violence Detection using Deep Learning\")\nroot.geometry(\"800x600\")\n# Add background image",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "engine = pyttsx3.init()\n# Load the trained model\nmodel = load_model('violence_detection_model_best.h5')\n# Email configuration\nEMAIL_ADDRESS = \"your_email@example.com\"  # Replace with your email\nEMAIL_PASSWORD = \"your_password\"  # Replace with your password\nRECIPIENT_EMAIL = \"recipient_email@example.com\"  # Replace with recipient email\n# Initialize variables\nviolence_counter = 0\nviolence_detected = False",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "model = load_model('violence_detection_model_best.h5')\n# Email configuration\nEMAIL_ADDRESS = \"your_email@example.com\"  # Replace with your email\nEMAIL_PASSWORD = \"your_password\"  # Replace with your password\nRECIPIENT_EMAIL = \"recipient_email@example.com\"  # Replace with recipient email\n# Initialize variables\nviolence_counter = 0\nviolence_detected = False\n# Function to send an email with the image\ndef send_email(image_path):",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_ADDRESS",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "EMAIL_ADDRESS = \"your_email@example.com\"  # Replace with your email\nEMAIL_PASSWORD = \"your_password\"  # Replace with your password\nRECIPIENT_EMAIL = \"recipient_email@example.com\"  # Replace with recipient email\n# Initialize variables\nviolence_counter = 0\nviolence_detected = False\n# Function to send an email with the image\ndef send_email(image_path):\n    print(\"email sent\")\n    '''try:",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PASSWORD",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "EMAIL_PASSWORD = \"your_password\"  # Replace with your password\nRECIPIENT_EMAIL = \"recipient_email@example.com\"  # Replace with recipient email\n# Initialize variables\nviolence_counter = 0\nviolence_detected = False\n# Function to send an email with the image\ndef send_email(image_path):\n    print(\"email sent\")\n    '''try:\n        msg = MIMEMultipart()",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "RECIPIENT_EMAIL",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "RECIPIENT_EMAIL = \"recipient_email@example.com\"  # Replace with recipient email\n# Initialize variables\nviolence_counter = 0\nviolence_detected = False\n# Function to send an email with the image\ndef send_email(image_path):\n    print(\"email sent\")\n    '''try:\n        msg = MIMEMultipart()\n        msg['From'] = EMAIL_ADDRESS",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "violence_counter",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "violence_counter = 0\nviolence_detected = False\n# Function to send an email with the image\ndef send_email(image_path):\n    print(\"email sent\")\n    '''try:\n        msg = MIMEMultipart()\n        msg['From'] = EMAIL_ADDRESS\n        msg['To'] = RECIPIENT_EMAIL\n        msg['Subject'] = \"Violence Detected\"",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "violence_detected",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "violence_detected = False\n# Function to send an email with the image\ndef send_email(image_path):\n    print(\"email sent\")\n    '''try:\n        msg = MIMEMultipart()\n        msg['From'] = EMAIL_ADDRESS\n        msg['To'] = RECIPIENT_EMAIL\n        msg['Subject'] = \"Violence Detected\"\n        with open(image_path, 'rb') as img_file:",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "root = tk.Tk()\nroot.title(\"Violence Detection using Deep Learning\")\nroot.geometry(\"800x600\")\n# Add background image\nbg_image = Image.open(\"bg.jpg\")  # Replace with your background image file path\nbg_image = bg_image.resize((800, 600), Image.ANTIALIAS)\nbg_photo = ImageTk.PhotoImage(bg_image)\nbackground_label = tk.Label(root, image=bg_photo)\nbackground_label.place(relwidth=1, relheight=1)\n# Add header",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "bg_image",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "bg_image = Image.open(\"bg.jpg\")  # Replace with your background image file path\nbg_image = bg_image.resize((800, 600), Image.ANTIALIAS)\nbg_photo = ImageTk.PhotoImage(bg_image)\nbackground_label = tk.Label(root, image=bg_photo)\nbackground_label.place(relwidth=1, relheight=1)\n# Add header\nheader = tk.Label(root, text=\"Violence Detection using Deep Learning\", font=(\"Helvetica\", 24, \"bold\"), bg=\"black\", fg=\"white\")\nheader.pack(pady=20)\n# Add browse button\nbrowse_button = tk.Button(root, text=\"Browse Video File\", font=(\"Helvetica\", 16), command=browse_video, bg=\"blue\", fg=\"white\")",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "bg_image",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "bg_image = bg_image.resize((800, 600), Image.ANTIALIAS)\nbg_photo = ImageTk.PhotoImage(bg_image)\nbackground_label = tk.Label(root, image=bg_photo)\nbackground_label.place(relwidth=1, relheight=1)\n# Add header\nheader = tk.Label(root, text=\"Violence Detection using Deep Learning\", font=(\"Helvetica\", 24, \"bold\"), bg=\"black\", fg=\"white\")\nheader.pack(pady=20)\n# Add browse button\nbrowse_button = tk.Button(root, text=\"Browse Video File\", font=(\"Helvetica\", 16), command=browse_video, bg=\"blue\", fg=\"white\")\nbrowse_button.pack(pady=20)",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "bg_photo",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "bg_photo = ImageTk.PhotoImage(bg_image)\nbackground_label = tk.Label(root, image=bg_photo)\nbackground_label.place(relwidth=1, relheight=1)\n# Add header\nheader = tk.Label(root, text=\"Violence Detection using Deep Learning\", font=(\"Helvetica\", 24, \"bold\"), bg=\"black\", fg=\"white\")\nheader.pack(pady=20)\n# Add browse button\nbrowse_button = tk.Button(root, text=\"Browse Video File\", font=(\"Helvetica\", 16), command=browse_video, bg=\"blue\", fg=\"white\")\nbrowse_button.pack(pady=20)\n# Add detect button",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "background_label",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "background_label = tk.Label(root, image=bg_photo)\nbackground_label.place(relwidth=1, relheight=1)\n# Add header\nheader = tk.Label(root, text=\"Violence Detection using Deep Learning\", font=(\"Helvetica\", 24, \"bold\"), bg=\"black\", fg=\"white\")\nheader.pack(pady=20)\n# Add browse button\nbrowse_button = tk.Button(root, text=\"Browse Video File\", font=(\"Helvetica\", 16), command=browse_video, bg=\"blue\", fg=\"white\")\nbrowse_button.pack(pady=20)\n# Add detect button\ndetect_button = tk.Button(root, text=\"Detect\", font=(\"Helvetica\", 16), command=start_detection, bg=\"green\", fg=\"white\")",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "header",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "header = tk.Label(root, text=\"Violence Detection using Deep Learning\", font=(\"Helvetica\", 24, \"bold\"), bg=\"black\", fg=\"white\")\nheader.pack(pady=20)\n# Add browse button\nbrowse_button = tk.Button(root, text=\"Browse Video File\", font=(\"Helvetica\", 16), command=browse_video, bg=\"blue\", fg=\"white\")\nbrowse_button.pack(pady=20)\n# Add detect button\ndetect_button = tk.Button(root, text=\"Detect\", font=(\"Helvetica\", 16), command=start_detection, bg=\"green\", fg=\"white\")\ndetect_button.pack(pady=20)\n# Run the Tkinter event loop\nroot.mainloop()",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "browse_button",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "browse_button = tk.Button(root, text=\"Browse Video File\", font=(\"Helvetica\", 16), command=browse_video, bg=\"blue\", fg=\"white\")\nbrowse_button.pack(pady=20)\n# Add detect button\ndetect_button = tk.Button(root, text=\"Detect\", font=(\"Helvetica\", 16), command=start_detection, bg=\"green\", fg=\"white\")\ndetect_button.pack(pady=20)\n# Run the Tkinter event loop\nroot.mainloop()",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "detect_button",
+        "kind": 5,
+        "importPath": "predui",
+        "description": "predui",
+        "peekOfCode": "detect_button = tk.Button(root, text=\"Detect\", font=(\"Helvetica\", 16), command=start_detection, bg=\"green\", fg=\"white\")\ndetect_button.pack(pady=20)\n# Run the Tkinter event loop\nroot.mainloop()",
+        "detail": "predui",
+        "documentation": {}
+    },
+    {
+        "label": "extract_frames_from_video",
+        "kind": 2,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "def extract_frames_from_video(video_path, frame_rate=1):\n    cap = cv2.VideoCapture(video_path)\n    frames = []\n    fps = int(cap.get(cv2.CAP_PROP_FPS))\n    interval = fps * frame_rate  # Extract frames every `frame_rate` seconds\n    count = 0\n    while cap.isOpened():\n        ret, frame = cap.read()\n        if not ret:\n            break",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "load_data_from_folder",
+        "kind": 2,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "def load_data_from_folder(folder_path, label, frame_rate=1):\n    frames = []\n    labels = []\n    for video_name in os.listdir(folder_path):\n        video_path = os.path.join(folder_path, video_name)\n        #if video_path.endswith('.avi'):  # Check for .avi files\n        video_frames = extract_frames_from_video(video_path, frame_rate)\n        frames.extend(video_frames)\n        labels.extend([label] * len(video_frames))\n    return np.array(frames), np.array(labels)",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_frames",
+        "kind": 2,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "def preprocess_frames(frames):\n    preprocessed_frames = []\n    for frame in frames:\n        # Resize to 224x224 as VGG16 expects this input size\n        frame_resized = cv2.resize(frame, (224, 224))\n        frame_resized = np.array(frame_resized, dtype=np.float32) / 255.0  # Normalize to [0, 1]\n        preprocessed_frames.append(frame_resized)\n    return np.array(preprocessed_frames)\nall_frames = preprocess_frames(all_frames)\n# Load VGG16 pre-trained model without the top classification layer",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "plot_training_history",
+        "kind": 2,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "def plot_training_history(history):\n    # Plot Accuracy\n    plt.figure(figsize=(12, 6))\n    plt.subplot(1, 2, 1)\n    plt.plot(history.history['accuracy'], label='Train Accuracy')\n    plt.plot(history.history['val_accuracy'], label='Validation Accuracy')\n    plt.title('Training and Validation Accuracy')\n    plt.xlabel('Epochs')\n    plt.ylabel('Accuracy')\n    plt.legend()",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "violence_folder",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "violence_folder = 'dataset/train/violence'\nnon_violence_folder = 'dataset/train/non violence'\nviolence_frames, violence_labels = load_data_from_folder(violence_folder, 0)  # Label \"0\" for violence\nnon_violence_frames, non_violence_labels = load_data_from_folder(non_violence_folder, 1)  # Label \"1\" for non-violence\n# Combine frames and labels from both classes\nall_frames = np.concatenate([violence_frames, non_violence_frames], axis=0)\nall_labels = np.concatenate([violence_labels, non_violence_labels], axis=0)\n# Preprocess frames (resize and normalize)\ndef preprocess_frames(frames):\n    preprocessed_frames = []",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "non_violence_folder",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "non_violence_folder = 'dataset/train/non violence'\nviolence_frames, violence_labels = load_data_from_folder(violence_folder, 0)  # Label \"0\" for violence\nnon_violence_frames, non_violence_labels = load_data_from_folder(non_violence_folder, 1)  # Label \"1\" for non-violence\n# Combine frames and labels from both classes\nall_frames = np.concatenate([violence_frames, non_violence_frames], axis=0)\nall_labels = np.concatenate([violence_labels, non_violence_labels], axis=0)\n# Preprocess frames (resize and normalize)\ndef preprocess_frames(frames):\n    preprocessed_frames = []\n    for frame in frames:",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "all_frames",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "all_frames = np.concatenate([violence_frames, non_violence_frames], axis=0)\nall_labels = np.concatenate([violence_labels, non_violence_labels], axis=0)\n# Preprocess frames (resize and normalize)\ndef preprocess_frames(frames):\n    preprocessed_frames = []\n    for frame in frames:\n        # Resize to 224x224 as VGG16 expects this input size\n        frame_resized = cv2.resize(frame, (224, 224))\n        frame_resized = np.array(frame_resized, dtype=np.float32) / 255.0  # Normalize to [0, 1]\n        preprocessed_frames.append(frame_resized)",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "all_labels",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "all_labels = np.concatenate([violence_labels, non_violence_labels], axis=0)\n# Preprocess frames (resize and normalize)\ndef preprocess_frames(frames):\n    preprocessed_frames = []\n    for frame in frames:\n        # Resize to 224x224 as VGG16 expects this input size\n        frame_resized = cv2.resize(frame, (224, 224))\n        frame_resized = np.array(frame_resized, dtype=np.float32) / 255.0  # Normalize to [0, 1]\n        preprocessed_frames.append(frame_resized)\n    return np.array(preprocessed_frames)",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "all_frames",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "all_frames = preprocess_frames(all_frames)\n# Load VGG16 pre-trained model without the top classification layer\nbase_model = VGG16(weights='imagenet', include_top=False, input_shape=(224, 224, 3))\n# Freeze the layers of the base model\nfor layer in base_model.layers:\n    layer.trainable = False\n# Add custom classification layers\nx = Flatten()(base_model.output)\nx = Dense(128, activation='relu')(x)\nx = Dropout(0.5)(x)",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "base_model",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "base_model = VGG16(weights='imagenet', include_top=False, input_shape=(224, 224, 3))\n# Freeze the layers of the base model\nfor layer in base_model.layers:\n    layer.trainable = False\n# Add custom classification layers\nx = Flatten()(base_model.output)\nx = Dense(128, activation='relu')(x)\nx = Dropout(0.5)(x)\nx = Dense(2, activation='softmax')(x)  # 2 classes: \"Violence\" (0) and \"Non-Violence\" (1)\n# Create the final model",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "x = Flatten()(base_model.output)\nx = Dense(128, activation='relu')(x)\nx = Dropout(0.5)(x)\nx = Dense(2, activation='softmax')(x)  # 2 classes: \"Violence\" (0) and \"Non-Violence\" (1)\n# Create the final model\nmodel = Model(inputs=base_model.input, outputs=x)\n# Compile the model with categorical cross-entropy loss\nmodel.compile(optimizer=Adam(), loss='sparse_categorical_crossentropy', metrics=['accuracy'])\n# Model summary\nmodel.summary()",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "x = Dense(128, activation='relu')(x)\nx = Dropout(0.5)(x)\nx = Dense(2, activation='softmax')(x)  # 2 classes: \"Violence\" (0) and \"Non-Violence\" (1)\n# Create the final model\nmodel = Model(inputs=base_model.input, outputs=x)\n# Compile the model with categorical cross-entropy loss\nmodel.compile(optimizer=Adam(), loss='sparse_categorical_crossentropy', metrics=['accuracy'])\n# Model summary\nmodel.summary()\n# Split the dataset into training and validation sets",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "x = Dropout(0.5)(x)\nx = Dense(2, activation='softmax')(x)  # 2 classes: \"Violence\" (0) and \"Non-Violence\" (1)\n# Create the final model\nmodel = Model(inputs=base_model.input, outputs=x)\n# Compile the model with categorical cross-entropy loss\nmodel.compile(optimizer=Adam(), loss='sparse_categorical_crossentropy', metrics=['accuracy'])\n# Model summary\nmodel.summary()\n# Split the dataset into training and validation sets\nX_train, X_val, y_train, y_val = train_test_split(all_frames, all_labels, test_size=0.2, random_state=42)",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "x = Dense(2, activation='softmax')(x)  # 2 classes: \"Violence\" (0) and \"Non-Violence\" (1)\n# Create the final model\nmodel = Model(inputs=base_model.input, outputs=x)\n# Compile the model with categorical cross-entropy loss\nmodel.compile(optimizer=Adam(), loss='sparse_categorical_crossentropy', metrics=['accuracy'])\n# Model summary\nmodel.summary()\n# Split the dataset into training and validation sets\nX_train, X_val, y_train, y_val = train_test_split(all_frames, all_labels, test_size=0.2, random_state=42)\n# Define ModelCheckpoint callback to save the best model based on validation accuracy",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "model = Model(inputs=base_model.input, outputs=x)\n# Compile the model with categorical cross-entropy loss\nmodel.compile(optimizer=Adam(), loss='sparse_categorical_crossentropy', metrics=['accuracy'])\n# Model summary\nmodel.summary()\n# Split the dataset into training and validation sets\nX_train, X_val, y_train, y_val = train_test_split(all_frames, all_labels, test_size=0.2, random_state=42)\n# Define ModelCheckpoint callback to save the best model based on validation accuracy\ncheckpoint = ModelCheckpoint('violence_detection_model_best.h5', monitor='val_loss', save_best_only=True, mode='min', verbose=1)\n# Train the model with the checkpoint callback",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "checkpoint = ModelCheckpoint('violence_detection_model_best.h5', monitor='val_loss', save_best_only=True, mode='min', verbose=1)\n# Train the model with the checkpoint callback\nhistory = model.fit(X_train, y_train, batch_size=32, epochs=10, validation_data=(X_val, y_val), callbacks=[checkpoint])\n# Plot training & validation accuracy and loss\ndef plot_training_history(history):\n    # Plot Accuracy\n    plt.figure(figsize=(12, 6))\n    plt.subplot(1, 2, 1)\n    plt.plot(history.history['accuracy'], label='Train Accuracy')\n    plt.plot(history.history['val_accuracy'], label='Validation Accuracy')",
+        "detail": "trainingmodel",
+        "documentation": {}
+    },
+    {
+        "label": "history",
+        "kind": 5,
+        "importPath": "trainingmodel",
+        "description": "trainingmodel",
+        "peekOfCode": "history = model.fit(X_train, y_train, batch_size=32, epochs=10, validation_data=(X_val, y_val), callbacks=[checkpoint])\n# Plot training & validation accuracy and loss\ndef plot_training_history(history):\n    # Plot Accuracy\n    plt.figure(figsize=(12, 6))\n    plt.subplot(1, 2, 1)\n    plt.plot(history.history['accuracy'], label='Train Accuracy')\n    plt.plot(history.history['val_accuracy'], label='Validation Accuracy')\n    plt.title('Training and Validation Accuracy')\n    plt.xlabel('Epochs')",
+        "detail": "trainingmodel",
+        "documentation": {}
+    }
+]
